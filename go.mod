@@ -1,3 +1,3 @@
-module mikerybka.dev/mikerybkadev
+module github.com/mikerybka/go-mikerybkadev
 
 go 1.19
